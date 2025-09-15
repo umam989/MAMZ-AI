@@ -1,2 +1,2 @@
-# MAMZ-AI
+# nn
 ai buatan mamz
